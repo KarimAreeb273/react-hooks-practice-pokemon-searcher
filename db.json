@@ -1340,6 +1340,60 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Areeb",
+      "hp": 9001,
+      "sprites": {
+        "front": "nm",
+        "back": "nm"
+      },
+      "id": 151
+    },
+    {
+      "name": "Areeb",
+      "hp": 9001,
+      "sprites": {
+        "front": "nm",
+        "back": "nm"
+      },
+      "id": 152
+    },
+    {
+      "name": "Areeb A Karim",
+      "hp": 9001,
+      "sprites": {
+        "front": "nm",
+        "back": "nm"
+      },
+      "id": 153
+    },
+    {
+      "name": "Sasuke Ramen",
+      "hp": 45,
+      "sprites": {
+        "front": "nm",
+        "back": "nm"
+      },
+      "id": 154
+    },
+    {
+      "name": "Sasuke Ramen",
+      "hp": 45,
+      "sprites": {
+        "front": "https://archives.bulbagarden.net/media/upload/f/fb/0001Bulbasaur.png",
+        "back": "https://static.pokemonpets.com/images/monsters-images-800-800/1-Bulbasaur.webp"
+      },
+      "id": 155
+    },
+    {
+      "name": "Areeb",
+      "hp": 9999,
+      "sprites": {
+        "front": "nm",
+        "back": "nm"
+      },
+      "id": 156
     }
   ]
 }
